@@ -1,5 +1,4 @@
 # Hand_in_Hand
-// ECE 120 Honors Project
 
 The original completion of the project can be seen on illinoiswiki. This gives a great view of the original project timeline and construction details. It was an optional honors project that gave no additional school credit for completion. The link to the project page on illinoiswiki is [here](https://wiki.illinois.edu/wiki/display/ECE110HLSF15/Hand-in-Hand).
 
